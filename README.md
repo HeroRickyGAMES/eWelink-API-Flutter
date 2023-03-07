@@ -31,6 +31,10 @@ npm install ewelink-api -save
 npm install ewelink-api
 ```
 
+```
+nodemon index
+```
+
 Já tem video no canal!
 
 <a href="https://www.youtube.com/watch?v=JW4skJ6kbyg">Confere lá!</a></p>

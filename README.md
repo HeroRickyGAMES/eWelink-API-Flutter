@@ -11,25 +11,25 @@ Vá até a pasta nodejsapp, abra o cmd
 e
 Primeiro use o comenado
 
-'''
+```
 npm install nodemon -save
-'''
+```
 
-'''
+```
 npm install nodemon 
-'''
+```
 
-'''
+```
 npm install express
-'''
+```
 
-'''
+```
 npm install ewelink-api -save
-'''
+```
 
-'''
+```
 npm install ewelink-api
-'''
+```
 
 Já tem video no canal!
 

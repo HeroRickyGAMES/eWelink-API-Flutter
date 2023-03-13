@@ -16,6 +16,10 @@ npm install nodemon -save
 ```
 
 ```
+npm install -g nodemon
+```
+
+```
 npm install nodemon 
 ```
 
